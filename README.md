@@ -23,8 +23,7 @@
 
 <hr>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=stulletdev&show_icons=true&theme=tokyonight)
-
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=stulletdev&show_icons=true&theme=tokyonight)
 ![Profile Views](https://komarev.com/ghpvc/?username=[SEU-USUARIO]&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 <br>
