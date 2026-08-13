@@ -1,177 +1,131 @@
 <div align="center">
 
-# Hi there, I'm Conceição! 👋
+# 👋 Hey, I'm **Stullet**
 
-![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,tailwind,react,nextjs&theme=dark)
+### Software Engineer • Backend Developer • Automation
 
-<hr>
-
-### 🛠️ Tech Stack
-*Developer & Digital Creator specialized in building premium digital experiences.*
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
-| **Backend** | Node.js, JavaScript, REST APIs |
-| **Bots & Automation** | Discord.js, Automation, AI |
-| **Game Dev** | Pawn, Lua, Game Development |
-| **Tools** | Git, GitHub, Docker |
-
-<hr>
-
-### 🎨 Design Philosophy
-*Liquid Glass Aesthetic - Premium Black & White Experience*
-
-- **Glassmorphism** - Advanced blur effects and transparency
-- **Monochromatic** - Deep black background with white accents
-- **Micro-interactions** - Smooth animations with Framer Motion
-- **Responsive** - Optimized for all devices
-- **Accessible** - Respects user preferences
-
-<hr>
-
-### 🚀 Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/beyzz/portfolio.git
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-```
-
-[![Live Demo](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
-<hr>
-
-### 📁 Project Structure
-
-```
-src/
-├── app/              # Next.js App Router
-│   ├── layout.tsx    # Root layout
-│   ├── page.tsx      # Home page
-│   └── globals.css   # Global styles
-├── components/       # Reusable components
-│   ├── Navbar.tsx    # Navigation
-│   ├── Footer.tsx    # Footer
-│   ├── CursorGlow.tsx # Cursor effect
-│   └── Particles.tsx # Background particles
-├── sections/         # Page sections
-│   ├── Hero.tsx      # Hero section
-│   ├── About.tsx     # About me
-│   ├── Projects.tsx  # Projects showcase
-│   ├── Creations.tsx # Creative works
-│   ├── Stack.tsx     # Technologies
-│   ├── Process.tsx   # Workflow
-│   ├── Personal.tsx  # Personal section
-│   └── Contact.tsx   # Contact section
-└── data/             # Data files
-    ├── projects.ts   # Projects data
-    ├── technologies.ts # Tech stack
-    ├── creations.ts  # Creations data
-    └── social.ts     # Social links
-```
-
-<hr>
-
-### ⚡ Features
-
-- ✨ **Liquid Glass Design** - Premium glassmorphism effects
-- 🎯 **Scroll Animations** - Smooth reveal with Framer Motion
-- 🖱️ **Cursor Glow** - Interactive cursor effect
-- 🌟 **Particle Background** - Subtle animated particles
-- 📱 **Fully Responsive** - Mobile-first approach
-- ♿ **Accessible** - Keyboard navigation & screen reader friendly
-- 🎨 **Customizable** - Easy data structure for updates
-- ⚡ **Performance** - Optimized with Next.js 15
-
-<hr>
-
-### 🛠️ Customization
-
-#### Add Your Photo
-
-```tsx
-// In src/sections/Hero.tsx and src/sections/Personal.tsx
-<Image
-  src="/images/your-photo.jpg"
-  alt="Your Name"
-  width={400}
-  height={400}
-  className="rounded-lg"
-/>
-```
-
-#### Update Social Links
-
-```typescript
-// In src/data/social.ts
-export const socialLinks = {
-  github: "https://github.com/your-username",
-  discord: "https://discord.gg/your-server",
-  email: "mailto:your@email.com",
-};
-```
-
-#### Add New Projects
-
-```typescript
-// In src/data/projects.ts
-{
-  id: "project-id",
-  title: "Project Name",
-  category: "Category",
-  description: "Project description",
-  technologies: ["Tech1", "Tech2"],
-  github: "https://github.com/...",
-  demo: "https://demo.com",
-  featured: true,
-}
-```
-
-<hr>
-
-### 📊 Available Scripts
-
-| Command | Description |
-| :--- | :--- |
-| `npm run dev` | Start development server |
-| `npm run build` | Build for production |
-| `npm start` | Start production server |
-| `npm run lint` | Run ESLint |
-
-<hr>
-
-### 🌐 Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
+Building **scalable systems, automation tools and digital experiences** with a focus on clean architecture and performance.
 
 <br>
 
-*"Transformando ideias em sistemas, experiências e produtos digitais."*
+![JavaScript](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postgres,mysql,aws,docker,git,github\&theme=dark)
+
+<br><br>
+
+<a href="https://github.com/stulletdev">
+  <img src="https://img.shields.io/github/followers/stulletdev?style=for-the-badge&logo=github&label=Followers&color=18181b" />
+</a>
+<a href="https://github.com/stulletdev?tab=repositories">
+  <img src="https://img.shields.io/github/stars/stulletdev?style=for-the-badge&logo=github&label=Stars&color=18181b" />
+</a>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```js
+const stullet = {
+    role: "Software Engineer",
+    focus: [
+        "Backend Development",
+        "Automation",
+        "Scalable Systems",
+        "APIs & Integrations"
+    ],
+
+    languages: ["JavaScript", "Node.js"],
+
+    databases: [
+        "MongoDB",
+        "PostgreSQL",
+        "MySQL"
+    ],
+
+    infrastructure: [
+        "AWS",
+        "Docker",
+        "Linux"
+    ],
+
+    currentlyBuilding: "New ideas & experimental projects"
+};
+```
+
+---
+
+## ⚡ What I Build
+
+| Area           | Technologies                     |
+| -------------- | -------------------------------- |
+| **Backend**    | Node.js · Express · REST APIs    |
+| **Databases**  | MongoDB · PostgreSQL · MySQL     |
+| **Cloud**      | AWS · EC2 · S3 · Docker          |
+| **Automation** | Puppeteer · Web Scraping · Bots  |
+| **Discord**    | Discord.js · Bots · Integrations |
+| **Tools**      | Git · GitHub · Linux             |
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/stulletdev">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=stulletdev&repo=StarryBot&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+> More projects are constantly being built, tested and improved.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=stulletdev&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stulletdev&layout=compact&hide_border=true&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/stulletdev">
+<img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://stulletdev.camposcloud.app/">
+<img src="https://img.shields.io/badge/Portfolio-18181b?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
 
 <br>
 
 <div align="center">
 
-**Made with ❤️ using Next.js & TypeScript**
+### *"Turning ideas into systems."*
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beyzz)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+<br>
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=stulletdev\&style=for-the-badge\&color=18181b\&label=PROFILE+VIEWS)
 
 </div>
